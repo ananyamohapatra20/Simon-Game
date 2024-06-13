@@ -1,4 +1,4 @@
-# Simon-Game
+# 🎮 Simon-Game
 This is a web-based implementation of the classic memory game "Simon", built using **HTML**, **CSS**, **JavaScript**, and **jQuery**.
 
 ##  Introduction
