@@ -14,6 +14,6 @@ The **Simon Game** is a simple yet challenging game that tests your memory skill
 
 ## 🎥 Demo
 
-You can try the live demo of the Simon Game [here](#).
+You can try the live demo of the Simon Game [here](https://ananyamohapatra20.github.io/Simon-Game/).
 
 ---
